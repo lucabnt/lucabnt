@@ -39,8 +39,8 @@ number traceable to a script.
 
 ### Tools
 
-- **[thesis-latex-template](https://github.com/lucabnt/thesis-latex-template)** · TeX — template for Master's and PhD theses, extracted from a finished one.
-- **[lb-website](https://github.com/lucabnt/lb-website)** · HTML — source of [lucabontempi.com](https://lucabontempi.com).
+- **[thesis-latex-template](https://github.com/lucabnt/thesis-latex-template)** · TeX - template for Master's and PhD theses, extracted from a finished one.
+- **[lb-website](https://github.com/lucabnt/lb-website)** · HTML - source of [lucabontempi.com](https://lucabontempi.com).
 
 ---
 
