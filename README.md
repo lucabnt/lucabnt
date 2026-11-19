@@ -22,7 +22,18 @@ of the U19 ranking and you catch 59% of future pros, yet half of the riders you 
 never make it. The ranking is a good tool for deciding who to follow, and a poor one
 for deciding who to let go.
 
-[Read the series (Italian)](https://lucabontempi.com/series/ciclismo-giovanile-e-professionismo/)
+[Read the series](https://lucabontempi.com/en/series/ciclismo-giovanile-e-professionismo/)
+
+
+### Waking a PC from my phone
+
+**[AwakeOnLANMobile](https://github.com/lucabnt/AwakeOnLANMobile)** · Android
+
+An Android Wake-on-LAN app I maintain as a fork of [nellogan's original](https://github.com/nellogan/AwakeOnLANMobile).
+Wake a saved PC from the app, a home-screen widget or a Quick Settings tile.
+Device storage and backups are encrypted, with no accounts, ads or cloud service.
+
+[Download the APK](https://github.com/lucabnt/AwakeOnLANMobile/releases)
 
 
 ### Reopening my own master's thesis
@@ -35,17 +46,6 @@ Mixed models, a specification curve, equivalence tests and a Bayesian check, eve
 number traceable to a script.
 
 [Write-up](https://lucabontempi.com/blog/reopening-my-thesis) · [Original, 2023](https://github.com/lucabnt/mobile-app-download-determinants)
-
-
-### Waking a PC from my phone
-
-**[AwakeOnLANMobile](https://github.com/lucabnt/AwakeOnLANMobile)** · Android
-
-An Android Wake-on-LAN app I maintain as a fork of [nellogan's original](https://github.com/nellogan/AwakeOnLANMobile).
-Wake a saved PC from the app, a home-screen widget or a Quick Settings tile.
-Device storage and backups are encrypted, with no accounts, ads or cloud service.
-
-[Download the APK](https://github.com/lucabnt/AwakeOnLANMobile/releases)
 
 
 ### Tools
