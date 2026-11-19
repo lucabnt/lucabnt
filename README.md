@@ -25,17 +25,6 @@ for deciding who to let go.
 [Read the series](https://lucabontempi.com/en/series/ciclismo-giovanile-e-professionismo/)
 
 
-### Waking a PC from my phone
-
-**[AwakeOnLANMobile](https://github.com/lucabnt/AwakeOnLANMobile)** · Android
-
-An Android Wake-on-LAN app I maintain as a fork of [nellogan's original](https://github.com/nellogan/AwakeOnLANMobile).
-Wake a saved PC from the app, a home-screen widget or a Quick Settings tile.
-Device storage and backups are encrypted, with no accounts, ads or cloud service.
-
-[Download the APK](https://github.com/lucabnt/AwakeOnLANMobile/releases)
-
-
 ### Reopening my own master's thesis
 
 **[mobile-app-download-determinants-update](https://github.com/lucabnt/mobile-app-download-determinants-update)** · R
@@ -46,6 +35,17 @@ Mixed models, a specification curve, equivalence tests and a Bayesian check, eve
 number traceable to a script.
 
 [Write-up](https://lucabontempi.com/blog/reopening-my-thesis) · [Original, 2023](https://github.com/lucabnt/mobile-app-download-determinants)
+
+
+### Waking a PC from my phone
+
+**[AwakeOnLANMobile](https://github.com/lucabnt/AwakeOnLANMobile)** · Android
+
+An Android Wake-on-LAN app I maintain as a fork of [nellogan's original](https://github.com/nellogan/AwakeOnLANMobile).
+Wake a saved PC from the app, a home-screen widget or a Quick Settings tile.
+Device storage and backups are encrypted, with no accounts, ads or cloud service.
+
+[Download the APK](https://github.com/lucabnt/AwakeOnLANMobile/releases)
 
 
 ### Tools
