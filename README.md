@@ -25,6 +25,22 @@ for deciding who to let go.
 [Read the series](https://lucabontempi.com/en/series/ciclismo-giovanile-e-professionismo/)
 
 
+### Testing young riders, offline
+
+**[performance-lab](https://github.com/lucabnt/performance-lab)** · Python · TypeScript
+
+Fuorigiri Performance Lab is the app I built to record and compare my club's tests:
+incremental tests from FIT/CSV or by hand, lactate, sprint and Wingate, training zones,
+growth and maturation. It works offline first, with one local archive per club and optional
+encrypted sharing between coaches. Windows and Android, Italian and English.
+
+It is a first alpha (0.10.0-alpha.1), so keep a backup.
+The shared UI kit and Python runtime live in [cycling-suite-common](https://github.com/lucabnt/cycling-suite-common),
+which also serves club apps that are not public yet.
+
+[Download the alpha](https://github.com/lucabnt/performance-lab/releases)
+
+
 ### Reopening my own master's thesis
 
 **[mobile-app-download-determinants-update](https://github.com/lucabnt/mobile-app-download-determinants-update)** · R
@@ -51,6 +67,7 @@ Device storage and backups are encrypted, with no accounts, ads or cloud service
 ### Tools
 
 - **[thesis-latex-template](https://github.com/lucabnt/thesis-latex-template)** · TeX - template for Master's and PhD theses, extracted from a finished one.
+- **[carbon-marp-deck](https://github.com/lucabnt/carbon-marp-deck)** · CSS - Marp theme and agent skill for slide decks in Carbon Design System style, exported to PDF and editable PPTX.
 - **[lb-website](https://github.com/lucabnt/lb-website)** · HTML - source of [lucabontempi.com](https://lucabontempi.com).
 
 ---
