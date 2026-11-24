@@ -38,7 +38,7 @@ It is a first alpha (0.10.0-alpha.1), so keep a backup.
 The shared UI kit and Python runtime live in [cycling-suite-common](https://github.com/lucabnt/cycling-suite-common),
 which also serves club apps that are not public yet.
 
-[Download the alpha](https://github.com/lucabnt/performance-lab/releases)
+[Download the alpha](https://github.com/lucabnt/performance-lab/releases) · [Project page](https://lucabontempi.com/projects/fuorigiri-performance-lab/)
 
 
 ### Reopening my own master's thesis
@@ -61,13 +61,13 @@ An Android Wake-on-LAN app I maintain as a fork of [nellogan's original](https:/
 Wake a saved PC from the app, a home-screen widget or a Quick Settings tile.
 Device storage and backups are encrypted, with no accounts, ads or cloud service.
 
-[Download the APK](https://github.com/lucabnt/AwakeOnLANMobile/releases)
+[Download the APK](https://github.com/lucabnt/AwakeOnLANMobile/releases) · [Project page](https://lucabontempi.com/projects/awakeonlanmobile/)
 
 
 ### Tools
 
-- **[thesis-latex-template](https://github.com/lucabnt/thesis-latex-template)** · TeX - template for Master's and PhD theses, extracted from a finished one.
-- **[carbon-marp-deck](https://github.com/lucabnt/carbon-marp-deck)** · CSS - Marp theme and agent skill for slide decks in Carbon Design System style, exported to PDF and editable PPTX.
+- **[thesis-latex-template](https://github.com/lucabnt/thesis-latex-template)** · TeX - template for Master's and PhD theses, extracted from a finished one. [Project page](https://lucabontempi.com/projects/thesis-latex-template/)
+- **[carbon-marp-deck](https://github.com/lucabnt/carbon-marp-deck)** · CSS - Marp theme and agent skill for slide decks in Carbon Design System style, exported to PDF and editable PPTX. [Project page](https://lucabontempi.com/projects/carbon-marp-deck/)
 - **[lb-website](https://github.com/lucabnt/lb-website)** · HTML - source of [lucabontempi.com](https://lucabontempi.com).
 
 ---
